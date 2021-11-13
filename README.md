@@ -20,6 +20,7 @@ Theoretical course only
 - MACS205a	Numerical analysis Part I		
 
 Project [R] : Interpolation and quadrature [Lagrange interpolation, Chebyshev nodes, Simpson method, Richardson method, Romberg method]	
+
 Project [R] and report : FitzHugh–Nagumo model and utilisation of Runge-Kutta methods			
 
 
