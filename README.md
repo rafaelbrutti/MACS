@@ -1,5 +1,5 @@
 # MACS
-Random Modeling and Scientific Computing study track
+<center> Random Modeling and Scientific Computing study track <\center> 
 
 MACS201a	Hilbert spaces, mathematical statistics and Probability: Part I	
 
