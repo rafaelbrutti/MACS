@@ -21,7 +21,9 @@ Theoretical course only
 
 Project [R] : Interpolation and quadrature [Lagrange interpolation, Chebyshev nodes, Simpson method, Richardson method, Romberg method]			
 
-- MACS205b	Numerical analysis Part II				
+- MACS205b	Numerical analysis Part II	
+
+Project [Python] and report : Adaptative Metropolis Hastings methods (Adaptative, Mixture, Kernel Density Estimation)
 
 - MACS207a	Stochastic calculus Part I		
 
