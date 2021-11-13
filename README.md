@@ -1,18 +1,25 @@
 # MACS
 ## Random Modeling and Scientific Computing study track 
 
-MACS201a	Hilbert spaces, mathematical statistics and Probability: Part I	
+- MACS201a	Hilbert spaces, mathematical statistics and Probability: Part I	
+Theoretical course only
 
-MACS201b	Hilbert spaces, mathematical statistics and Probability: Part II			
+- MACS201b	Hilbert spaces, mathematical statistics and Probability: Part II
+Theoretical course only		
 
-MACS203a	Martingales and Asymptotic Statistics Part I							
+- MACS203a	Martingales and Asymptotic Statistics Part I
+Theoretical course only							
 
-MACS203b	Martingales and asymptotic statistics Part II					
+- MACS203b	Martingales and asymptotic statistics Part II	
+Theoretical course only				
 
-MACS205a	Numerical analysis Part I							
+- MACS205a	Numerical analysis Part I		
+Project [R] : Interpolation and quadrature [Lagrange interpolation, Chebyshev nodes, Simpson method, Richardson method, Romberg method]			
 
-MACS205b	Numerical analysis Part II				
+- MACS205b	Numerical analysis Part II				
 
-MACS207a	Stochastic calculus Part I		
+- MACS207a	Stochastic calculus Part I		
+Theoretical course only
 
-MACS207b	Continuous time Markov chains and martingales
+- MACS207b	Continuous time Markov chains and martingales
+Project [Python] : Filtering and estimation of the detection of a regime shift represented by two independent random Poisson processes.
